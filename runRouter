@@ -1,0 +1,3 @@
+clear
+mvn clean package
+java -jar router/target/router.jar

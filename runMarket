@@ -1,0 +1,2 @@
+clear
+java -jar market/target/market.jar firstMarketStock
